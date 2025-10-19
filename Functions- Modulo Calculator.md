@@ -25,6 +25,6 @@ result(a, b)
 
 ## Output
 
-![alt text](output22.png)
+![alt text](Output22.png)
 ## Result
  A Python program that defines a function which accepts two values and returns their **modulo** using the `%` operator was completed successfully and output was generated.
