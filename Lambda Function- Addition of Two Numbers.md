@@ -23,3 +23,4 @@ print(f(a, b))
 ![alt text](Output23.png)
 
 ## Result
+ A Python program that defines a **lambda function** which takes two arguments `a` and `b`, and returns their sum was completed successfully and output was generated.

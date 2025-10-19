@@ -19,3 +19,4 @@ print(bin(a))
 ![alt text](Output21.png)
 
 ## Result
+A Python program to convert the number **16** into its **binary representation** using built-in Python functions was completed successfully and output was generated.

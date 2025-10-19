@@ -35,3 +35,4 @@ else:
 ![alt text](Output25.png)
 
 ## Result
+A Python program that checks whether a given number is a **palindrome** using loops was completed successfully and output was generated.

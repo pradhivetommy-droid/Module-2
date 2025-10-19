@@ -47,4 +47,5 @@ for i in range(rows):
 ![alt text](Output24.png)
 
 ## Result
+A Python program that generates **Pascal's Triangle** using numbers. The number of rows is accepted from the user was completed successfully and output was generated.
 
